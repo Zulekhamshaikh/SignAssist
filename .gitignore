@@ -1,0 +1,56 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.mp4
+
+# Virtual Environments
+
+venv/
+myenv/
+MP/venv/
+
+# Environment Variables
+
+.env
+
+# Node.js
+
+node_modules/
+
+# VS Code
+
+.vscode/
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Large Training Datasets
+
+master_static_gesture_data.csv
+master_static_gesture_data1.csv
+
+# Temporary Files
+
+*.log
+
+# Build / Cache
+
+dist/
+build/
+
+# Python Cache
+
+.pytest_cache/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Ignore uploaded papers and reports (optional)
+
+Springer_paper.docx
+results_report.txt
